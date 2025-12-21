@@ -7,17 +7,27 @@ package io.yash.logic;
 import java.util.*;
 public class display
 {
-    int operation;
-    void displayrules()
+    int option=0;
+    int displayrules()
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("Input an option for operation to be performed:use LOWER CASE only");
         System.out.println("integration/differentiation");
         String input=sc.nextLine();
         if(input.contains("integration"))
-        operation=1;
+        option=1;
         if(input.contains("differentiation"))
-        operation=2;
-
+        option=2;
+        
+        if(option!=0)
+        {
+        System.out.println("enter expression:y=func(x)");
+        System.out.println("y=");
+        String expression=sc.nextLine();
+        }
+        else
+        System.out.println("invalid input");
+        
+        return option;
     }
 }

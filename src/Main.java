@@ -5,7 +5,21 @@ public class Main
     {
         display ob=new display();
         ob.displayrules();
+        operations ob1= new operations();
+        
 
+        switch (ob.option)
+        {
+            case 1:       
+                ob1.integration();
+                break;
+            case 2:
+                ob1.differentiation();
+                break;
+             
+
+        
+        }
 
     }
 
