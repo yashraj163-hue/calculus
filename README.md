@@ -9,3 +9,4 @@ documentation about functions and variables is in code itself
 classe's documentation will be given alongside after creating the testing files.
 **NOTE all classes uses buffer/scanner functions currently and will use until logic is written.
 gui will only be implemented later
+*****main target :dynamic execution method:Dijkstra’s Algorithm if redbull lasts long enough..
