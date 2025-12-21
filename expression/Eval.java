@@ -1,3 +1,7 @@
+//all precedence function will be added subsequently
+//stack is not declared this block is just for inspiration
+//use only as logic reference currently and edit comment after execution
+
 package io.calculus.evaluate;
 class Eval
 {
