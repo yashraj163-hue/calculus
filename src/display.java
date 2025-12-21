@@ -3,7 +3,7 @@
 //1=integration
 //2=diff
 
-package io.yash.logic;
+package io.calculus.logic;
 import java.util.*;
 public class display
 {

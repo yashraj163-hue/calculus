@@ -1,4 +1,4 @@
-package io.yash.logic;
+package io.calculus.logic;
 public class Main
 {
     void main()
