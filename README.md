@@ -11,7 +11,7 @@ and edge cases.
 ***current main target :dynamic execution  *** method:Dijkstra’s Algorithm  if redbull lasts long enough..
 **NOTE: all classes uses buffer/scanner functions currently and will use until logic is written.
 gui will only be implemented later.
-feel free to comment/point any unoptimised or shit code/algo since I am still a beginner sophomore
+feel free to comment/point any unoptimised or shit code/algo since I am still a beginner and sophomore.
 
 Calculus is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
