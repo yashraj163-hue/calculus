@@ -12,6 +12,39 @@ and edge cases.
 **NOTE: all classes uses buffer/scanner functions currently and will use until logic is written.
 gui will only be implemented later.
 feel free to comment/point any unoptimised or shit code/algo since I am still a beginner and sophomore.
+***file structure [current]***
+calculus/
+├── bin/
+├── docs/
+│   └── classFunctions.txt
+├── gui/
+├── src/
+│   └── main/
+│       └── java/
+│           └── io/
+│               └── calculus/
+│                   ├── evaluate/
+│                   │   └── Eval.java
+│                   └── logic/
+│                       ├── display.java
+│                       ├── Main.java
+│                       └── operations.java
+│   └── test/
+│       └── java/
+│           └── io/
+│               └── calculus/
+│                   ├── evaluate/
+│                   │   └── EvalTest.java
+│                   └── logic/
+│                       ├── displayTest.java
+│                       ├── MainTest.java
+│                       └── operationsTest.java
+├── .gitignore
+├── LICENSE
+├── pom.xml
+└── README.md
+
+***
 
 Calculus is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
