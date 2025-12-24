@@ -8,11 +8,14 @@ documentation about functions and variables is in code itself
 classe's documentation will be given alongside after creating the testing files.
 Auto testing will be used subject to manually also checking the basic functionality of functions
 and edge cases.
-***current main target :dynamic execution  *** method:Dijkstra’s Algorithm  if redbull lasts long enough..
+current objective:
+***current main target :dynamic execution  *** method:Dijkstra’s Algorithm
+completion: today if redbull lasts long enough..
 **NOTE: all classes uses buffer/scanner functions currently and will use until logic is written.
 gui will only be implemented later.
 feel free to comment/point any unoptimised or shit code/algo since I am still a beginner and sophomore.
 ***file structure [current]***
+
 calculus/
 ├── bin/
 ├── docs/
