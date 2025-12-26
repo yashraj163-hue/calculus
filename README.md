@@ -3,7 +3,8 @@
 integration & differentiation programs
 It is a project which uses c and java to perform definite bounded integrals and differentials
 No idea about indefinite tho currently. Will concider later.
-GUI will be java interface and writing logic code will be given prority over gui first.**UPDATE:fuck GUI it will be a cli program
+GUI will be java interface and writing logic code will be given prority over gui first.
+**UPDATE:fuck GUI it will be a cli program
 documentation about functions and variables is in code itself
 classe's documentation will be given alongside after creating the testing files.
 Auto testing will be used subject to manually also checking the basic functionality of functions
