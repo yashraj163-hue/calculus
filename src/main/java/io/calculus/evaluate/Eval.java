@@ -16,6 +16,13 @@ public static double eval(String expr) {
             double val = 0;
             while (i < expr.length() && Character.isDigit(expr.charAt(i)))
                 val = val * 10 + (expr.charAt(i++) - '0');
+            if (i < expr.length() && expr.charAt(i) == '.') {
+                double factor = 0.1;
+                while (++i < expr.length() && Character.isDigit(expr.charAt(i))) {
+                    val += (expr.charAt(i) - '0') * factor;
+                    factor *= 0.1;
+                }
+            }
             values.push(val);
             i--;
         } else if (c == '+' || c == '-' || c == '*' || c == '/') {
