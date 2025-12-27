@@ -5,7 +5,7 @@ India
 
 issues:
 #5-Add decimal number input capability
-@sega22
+@seda22
 Turkey
 
 #3-Reorganisation of files to run tests in Maven
