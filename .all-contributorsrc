@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "seda22",
+      "name": "seda22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231178556?v=4",
+      "profile": "https://github.com/seda22",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "calculus",
+  "projectOwner": "yashraj163-hue"
+}
