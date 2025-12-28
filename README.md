@@ -47,6 +47,7 @@ calculus/
 ├── LICENSE
 ├── pom.xml
 └── README.md
+|__Contributors.md
 
 ***
 
